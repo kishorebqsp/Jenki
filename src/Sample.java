@@ -8,5 +8,11 @@ public class Sample {
 	{
 		Reporter.log("hii",true);
 	}
+	
+	@Test
+	public void open1()
+	{
+		Reporter.log("hii",true);
+	}
 
 }
